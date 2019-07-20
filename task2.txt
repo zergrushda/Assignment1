@@ -1,0 +1,8 @@
+	 a) /srv/home/rpapkou
+ 	 b) /bin/bash
+	 c) 	-d 
+		Show directories and no content
+		-c
+		Date of last change
+	 d) 1040
+	 e) gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-36)

@@ -1,0 +1,10 @@
+a) nano
+
+b) ^O - save
+   ^X - exit
+
+c) (i)	^U - paste
+   (ii)	ALT+6 - copy
+   (iii)^W - search
+
+// "^" means Ctrl 
